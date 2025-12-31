@@ -1,0 +1,31 @@
+<section id="services">
+  <h2>Services & Prices</h2>
+
+  <div class="service-category">
+    <h3>Tab / Written Fibre</h3>
+    <ul>
+      <li>One Million <span>R30</span></li>
+      <li>Londi London <span>R55</span></li>
+      <li>Wendy Wonder <span>R55</span></li>
+      <li>Expression <span>R55</span></li>
+    </ul>
+  </div>
+
+  <div class="service-category">
+    <h3>French Curls</h3>
+    <ul>
+      <li>French Curls (Long) <span>R110</span></li>
+      <li>French Curls (Short) <span>R80</span></li>
+    </ul>
+  </div>
+
+  <div class="service-category">
+    <h3>Loc Fibre</h3>
+    <ul>
+      <li>Distressed Locs <span>R200</span></li>
+      <li>Butterfly Locs <span>R250</span></li>
+    </ul>
+  </div>
+
+  <p class="note">⚠️ Client will buy the fibre</p>
+</section>
